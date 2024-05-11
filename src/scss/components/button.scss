@@ -1,0 +1,14 @@
+.btn {
+
+
+
+  &disabled,
+  &.disabled {
+    background: var(--dark-grey);
+    color: var(--white);
+  }
+
+
+}
+
+
